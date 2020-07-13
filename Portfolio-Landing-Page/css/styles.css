@@ -1,4 +1,38 @@
+h1,h2,h3,h4{
+  color:red;
+ 
+}
 h1{
-  color: blue;
   text-align: center;
+}
+body{
+  background-color: ghostwhite;
+}
+h5{
+  font-size: large;
+  color: red;
+}
+.capstone{
+  
+  width: 300px;
+  border: 15px solid lime;
+  padding: 50px;
+  margin: 20px;
+}
+.rovaku{
+  width: 300px;
+  border: 15px solid rgb(192, 35, 158);
+  padding: 50px;
+  margin: 20px;
+}
+.me{ 
+  width: 300px;
+  border: 15px solid rgb(236, 92, 8);
+  padding: 50px;
+  margin: 20px;
+}
+img{
+  float: right;
+  height: 40%;
+  width: 50%;
 }
